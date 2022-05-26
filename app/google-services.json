@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "271801013474",
+    "project_id": "assamemnt3android",
+    "storage_bucket": "assamemnt3android.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271801013474:android:821585329c6fe62501babb",
+        "android_client_info": {
+          "package_name": "com.example.assamemnt3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271801013474-67n48i6m5q8g0461i6iu3u3bgvpmnnhu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE3DuIWouBW5TsyA4qf8uXjGaiveir4I4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "271801013474-67n48i6m5q8g0461i6iu3u3bgvpmnnhu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
